@@ -57,7 +57,8 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 ```
 # Output 
-![image](https://github.com/Vanitha-SM/Correlation_Regression/assets/119557985/33255633-4b94-46b1-9a68-fbc50972aa5a)
+![image](https://github.com/Vanitha-SM/Correlation_Regression/assets/119557985/9d423bc3-71e3-48af-ab0b-ea1f333be09a)
+
 
 # Result
 
